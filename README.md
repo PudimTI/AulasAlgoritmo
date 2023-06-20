@@ -8,3 +8,7 @@ Repositório para meus algoritmos criados em aula, utilizando a linguagem C
 
  - Algoritmo e Lógica de Programação: Nota 9,1
 
+ - Matematica Discreta: Nota 7,9
+
+ - Programação em Microinformatica: Nota 10
+
