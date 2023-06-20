@@ -1,8 +1,8 @@
-# AulasAlgoritmo
+# Aulas de Algoritmo e Programação
 Repositório para meus algoritmos criados em aula, utilizando a linguagem C
 
 
-# 1º Semestre 
+## 1º Semestre 
 
 ### Sexta-feira
 
