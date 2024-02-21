@@ -16,3 +16,10 @@ Repositório para meus algoritmos criados em aula, utilizando a linguagem C
 
  - Programação em Microinformatica: Nota 10
 
+## 2º Semestre
+
+### Sabado
+
+ - Logica de programação: Nota
+
+## 3º Semestre
